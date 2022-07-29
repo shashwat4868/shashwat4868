@@ -4,16 +4,12 @@ I am a final year CSE student at VIT, Vellore with experience in app development
 
 Connect:
 
-.about__social-icon{
-    font-size: 1.4rem;
-    margin: 0 var(--mb-1);
-}
-.about__social-icon:hover{
-    color: var(--first-color);
-}
-
-<div id="about__social">
-  <a href="https://www.linkedin.com/in/shashwat-sinha-090b74218/" target="_blank" class="about__social-icon"><i class='bx bxl-linkedin' ></i></a>
-  <a href="https://shashwat4868.github.io" target="_blank" class="about__social-icon"><i class='bx bx-globe' ></i></a>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/shashwat-sinha-090b74218/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://shashwat4868.github.io/">
+    <img src="https://img.shields.io/badge/WebPage-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
 </div>
 <br/>
