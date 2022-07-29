@@ -9,7 +9,7 @@ Connect:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://shashwat4868.github.io/">
-    <img src="https://img.shields.io/badge/WebPage-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/WebPage-blue?style=for-the-badge&logo=bx-globe&logoColor=white" alt="Twitter Badge"/>
     </a>
 </div>
 <br/>
