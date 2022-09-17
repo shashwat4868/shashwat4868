@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<p align="justify">
 I am a final year CSE student at VIT, Vellore with experience in app development, web development, and machine learning. I'm looking to learn and explore new areas in computer science and also to leverage my existing skillset to contribute to software projects!
+</p>
 
 Connect:
 
